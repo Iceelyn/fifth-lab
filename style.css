@@ -1,0 +1,15 @@
+td.header {
+    color: white;
+    text-align: left;
+    background-color: #352BA5
+    }
+
+@import url('https://fonts.google.com/share?selection.family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900p');
+    p { 
+
+      color: black;
+      font-family: 'Lato', monospace;
+      font-size: 18px;
+      padding: 20px;
+      border-radius: 12px;
+    }
